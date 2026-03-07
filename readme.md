@@ -1,5 +1,4 @@
-# This repository in combination with the MichaelLM49/MedicClient64 repository contains the files necessary  
-to run the full client/server version of the free Medic Nuclear Medicine Image Processing and Documentation system.
+# This repository in combination with the MichaelLM49/MedicClient64 repository contains the files necessary to run the full client/server version of the free Medic Nuclear Medicine Image Processing and Documentation system.  
 > Download the .zip file and after unpack copy the files to the c:\medic directory on your server.
 >
 > Open a command window  on your server (you must have administrative privileges). Goto the c:\medic  

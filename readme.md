@@ -5,8 +5,8 @@
 directory and write: "MedicServer2.exe -install" to install the MedicServer2 service.
 >
 > To use the full client/server version of the system you must have a licens file.  
-> Send a email to michael@gamma-soft.dk with information about your name (and institution),     
-and the "Physical Address" of your network adaptor (on your server), Then you will  
+> Send an email to michael@gamma-soft.dk with information about your name (and institution),     
+and the "Physical Address" of your network adaptor (on your server). Then you will  
 receive a licens file that you place in the c:\medic directory on the server.
 >
 > For further information see the "Medic Processing Users Manual" document in the c:\medic directory  
